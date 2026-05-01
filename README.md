@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Engineer with 3+ yrs experience at NatWst Group<br>Built 5 robut Java applications & scaled 20+ integration services<br><br>
+Software Engineer with 3+ years of experience at NatWst Group<br>Built 5 robut Java applications & scaled 20+ integration services<br><br>
 
 
 ## 🌐 Socials:
